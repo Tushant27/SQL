@@ -1,0 +1,4 @@
+SQL Aliases
+
+SELECT CustomerID AS ID, CustomerName AS Customer
+FROM Customers;
